@@ -30,12 +30,13 @@ van de app:
   van hoogstens 40 tekens. Ze wordt op de steen overgenomen. Ze verschijnt nooit
   in meldingen en nooit in de afbeelding van een steen die je deelt.
 
-Deepstone verwijderen wist alles.
+Deepstone verwijderen haalt deze gegevens van je toestel (zie "Je gegevens
+wissen" voor de Android-back-up).
 
 ## Geen internetverbinding
 
 De app heeft geen toestemming om internet te gebruiken en bevat geen
-netwerkcode: geen enkel gegeven kan uit zichzelf je toestel verlaten.
+netwerkcode: de app zelf stuurt geen enkel gegeven van je toestel weg.
 
 ## De machtigingen, en waarom
 
@@ -76,25 +77,27 @@ Er wordt niets automatisch verstuurd.
 ## Je gegevens wissen
 
 In de app: **Instellingen → alles wissen** (onmiddellijk en definitief). De app
-verwijderen wist ook al haar gegevens.
+verwijderen haalt haar gegevens van je toestel.
 
-De app schakelt de systeemback-up van Android niet uit: als je de back-up van je
-telefoon hebt ingeschakeld (bijvoorbeeld naar Google), kan die de gegevens van
-Deepstone bevatten. Die wordt beheerd door Android en Google, niet door ons; je
-regelt ze in de instellingen van je telefoon.
+De app behoudt de standaard Android-systeemback-up: als je de Google-back-up van
+je telefoon hebt ingeschakeld, kunnen de gegevens van Deepstone daarin zitten
+(versleuteld door Android) en op een nieuw toestel worden hersteld. Die back-up
+wordt beheerd door Google, buiten onze toegang. Om ze te verwijderen, gebruik je
+de Google-/Android-instellingen van je telefoon.
 
 ## Kinderen
 
-Deepstone is voor een algemeen publiek en niet specifiek voor kinderen
-ontworpen. De app verzamelt geen gegevens.
+Deepstone is bedoeld voor mensen vanaf 13 jaar. De app is niet bedoeld voor
+kinderen jonger dan 13 en verzamelt niet bewust gegevens over hen (de app
+verzamelt trouwens helemaal geen gegevens).
 
 ## Je rechten
 
 De AVG geeft je recht op inzage, correctie, wissing en overdraagbaarheid. Hier
 oefen je die rechtstreeks in de app uit: alles is er zichtbaar, de reden van een
 sessie kun je wijzigen of wissen op de pagina van de steen, de export geeft je
-een bestand om mee te nemen, en "alles wissen" of de app verwijderen haalt alles
-weg. Wij hebben geen kopie van je gegevens: we zouden ze je niet kunnen bezorgen
+een bestand om mee te nemen, en "alles wissen" of de app verwijderen haalt de gegevens
+van je toestel. Wij hebben geen kopie van je gegevens: we zouden ze je niet kunnen bezorgen
 en ook niet in jouw plaats kunnen wissen.
 
 ## Wijzigingen
