@@ -31,12 +31,14 @@ une base de données de l'espace privé de l'application :
   n'apparaît jamais dans les notifications, ni dans l'image d'une pierre que
   vous partagez.
 
-Désinstaller Deepstone efface tout.
+Désinstaller Deepstone supprime ces données de votre appareil (voir « Effacer
+vos données » pour la sauvegarde Android).
 
 ## Aucune connexion à Internet
 
 L'application n'a pas l'autorisation d'accéder à Internet et ne contient aucun
-code réseau : aucune donnée ne peut quitter votre appareil par elle-même.
+code réseau : l'application elle-même n'envoie aucune donnée hors de votre
+appareil.
 
 ## Les autorisations, et pourquoi
 
@@ -78,17 +80,19 @@ Rien n'est envoyé automatiquement.
 ## Effacer vos données
 
 Dans l'application : **Réglages → tout effacer** (immédiat, définitif).
-Désinstaller l'application supprime aussi toutes ses données.
+Désinstaller l'application supprime ses données de votre appareil.
 
-La sauvegarde Android du système n'est pas désactivée par l'application : si
-vous avez activé la sauvegarde de votre téléphone (par exemple vers Google), elle
-peut inclure les données de Deepstone. Elle est gérée par Android et Google,
-pas par nous ; vous la contrôlez dans les paramètres de votre téléphone.
+L'application conserve la sauvegarde Android par défaut du système : si vous
+avez activé la sauvegarde Google de votre téléphone, les données de Deepstone
+peuvent y être incluses (chiffrées par Android) et restaurées sur un nouvel
+appareil. Cette sauvegarde est gérée par Google, hors de notre accès. Pour la
+supprimer, utilisez les réglages Google/Android de votre téléphone.
 
 ## Enfants
 
-Deepstone s'adresse à tout public et n'est pas conçue spécifiquement pour les
-enfants. Elle ne collecte aucune donnée.
+Deepstone s'adresse aux personnes de 13 ans et plus. Elle n'est pas destinée
+aux enfants de moins de 13 ans et ne collecte sciemment aucune donnée à leur
+sujet (de toute façon, l'application ne collecte aucune donnée).
 
 ## Vos droits
 
@@ -96,7 +100,7 @@ Le RGPD vous donne un droit d'accès, de rectification, d'effacement et de
 portabilité. Ici, ils s'exercent directement dans l'application : tout y est
 visible, la raison d'une séance se modifie ou s'efface depuis la fiche de la
 pierre, l'export donne un fichier que vous emportez, et « tout effacer » ou la
-désinstallation supprime tout. Nous ne détenons aucune copie de vos données :
+désinstallation supprime les données de l'appareil. Nous ne détenons aucune copie de vos données :
 nous ne pourrions ni vous les communiquer ni les supprimer à votre place.
 
 ## Modifications
