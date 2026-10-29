@@ -29,12 +29,13 @@ app's private space:
   of 40 characters at most. It is copied onto the stone. It never appears in
   notifications or in the image of a stone that you share.
 
-Uninstalling Deepstone erases everything.
+Uninstalling Deepstone removes this data from your device (see "Erasing your
+data" for Android backup).
 
 ## No internet connection
 
 The app has no permission to access the internet and contains no network code:
-no data can leave your device on its own.
+the app itself sends no data off your device.
 
 ## Permissions, and why
 
@@ -73,24 +74,25 @@ Nothing is sent automatically.
 ## Erasing your data
 
 In the app: **Settings → erase everything** (immediate, permanent). Uninstalling
-the app also deletes all its data.
+the app deletes its data from your device.
 
-The app does not turn off Android's system backup: if you have enabled backup
-on your phone (for example to Google), it may include Deepstone's data. It is
-managed by Android and Google, not by us; you control it in your phone's
-settings.
+The app keeps Android's default system backup: if you have turned on Google
+backup on your phone, Deepstone's data may be included (encrypted by Android)
+and restored onto a new device. That backup is managed by Google, outside our
+access. To delete it, use your phone's Google/Android settings.
 
 ## Children
 
-Deepstone is for a general audience and is not designed specifically for
-children. It collects no data.
+Deepstone is for people aged 13 and over. It is not intended for children under
+13 and does not knowingly collect any data about them (in any case, the app
+collects no data).
 
 ## Your rights
 
 The GDPR gives you the right of access, rectification, erasure and portability.
 Here they work directly in the app: everything is visible there, the reason for
 a session can be edited or cleared from the stone's page, export gives you a
-file to take with you, and "erase everything" or uninstalling removes it all. We
+file to take with you, and "erase everything" or uninstalling removes the data from your device. We
 hold no copy of your data: we could neither give it to you nor delete it on
 your behalf.
 
