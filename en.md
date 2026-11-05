@@ -60,8 +60,8 @@ data. Nothing is sold, rented or passed on: there is no mechanism to do so.
 
 ## Optional purchase "Deepstone Complete"
 
-Deepstone offers an **optional one-time purchase** that opens rare stones and
-other cuts. Payment is handled entirely by **Google Play** (or the **App
+Deepstone offers an **optional one-time purchase** that opens knapping,
+carving and faceting for every stone. Payment is handled entirely by **Google Play** (or the **App
 Store** on iPhone), under their own terms and privacy policies: Deepstone never
 sees your payment details or your account. The app only receives confirmation
 that the purchase took place, and keeps it on your device. It still has **no
