@@ -63,8 +63,8 @@ mechanisme om dat te doen.
 
 ## Optionele aankoop "Deepstone Compleet"
 
-Deepstone biedt een **optionele eenmalige aankoop** die zeldzame stenen en
-andere slijpvormen opent. De betaling wordt volledig afgehandeld door **Google
+Deepstone biedt een **optionele eenmalige aankoop** die het kloppen, snijden
+en facetten slijpen van alle stenen opent. De betaling wordt volledig afgehandeld door **Google
 Play** (of de **App Store** op iPhone), volgens hun eigen voorwaarden en
 privacybeleid: Deepstone ziet nooit je betaalgegevens of je account. De app
 krijgt alleen de bevestiging dat de aankoop heeft plaatsgevonden en bewaart die
