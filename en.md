@@ -55,9 +55,17 @@ microphone or files.
 ## What the app does not do
 
 There is **no account** to create. There is **no audience measurement**, no
-analytics tool, **no advertising**, **no in-app purchases**, and no third-party
-component that collects data. Nothing is sold, rented or passed on: there is no
-mechanism to do so.
+analytics tool, **no advertising**, and no third-party component that collects
+data. Nothing is sold, rented or passed on: there is no mechanism to do so.
+
+## Optional purchase "Deepstone Complete"
+
+Deepstone offers an **optional one-time purchase** that opens rare stones and
+other cuts. Payment is handled entirely by **Google Play** (or the **App
+Store** on iPhone), under their own terms and privacy policies: Deepstone never
+sees your payment details or your account. The app only receives confirmation
+that the purchase took place, and keeps it on your device. It still has **no
+Internet permission** and sends nothing.
 
 ## Export, import, share
 
