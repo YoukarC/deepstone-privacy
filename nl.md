@@ -57,9 +57,18 @@ of bestanden.
 ## Wat de app niet doet
 
 Er is **geen account** nodig. Er is **geen bezoekersmeting**, geen
-analysetool, **geen reclame**, **geen in-app-aankopen** en geen component van
-derden dat gegevens verzamelt. Niets wordt verkocht, verhuurd of doorgegeven:
-er bestaat geen mechanisme om dat te doen.
+analysetool, **geen reclame** en geen component van derden dat gegevens
+verzamelt. Niets wordt verkocht, verhuurd of doorgegeven: er bestaat geen
+mechanisme om dat te doen.
+
+## Optionele aankoop "Deepstone Compleet"
+
+Deepstone biedt een **optionele eenmalige aankoop** die zeldzame stenen en
+andere slijpvormen opent. De betaling wordt volledig afgehandeld door **Google
+Play** (of de **App Store** op iPhone), volgens hun eigen voorwaarden en
+privacybeleid: Deepstone ziet nooit je betaalgegevens of je account. De app
+krijgt alleen de bevestiging dat de aankoop heeft plaatsgevonden en bewaart die
+op je toestel. Ze heeft nog steeds **geen internetrechten** en verstuurt niets.
 
 ## Exporteren, importeren, delen
 
