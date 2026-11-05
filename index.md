@@ -60,9 +60,19 @@ appareil photo, votre micro ou vos fichiers.
 ## Ce que l'application ne fait pas
 
 Il n'y a **aucun compte** à créer. Il n'y a **aucune mesure d'audience**, aucun
-outil d'analyse, **aucune publicité**, **aucun achat intégré**, et aucun
-composant tiers qui collecte des données. Rien n'est vendu, loué ni transmis :
-il n'existe aucun mécanisme pour le faire.
+outil d'analyse, **aucune publicité**, et aucun composant tiers qui collecte
+des données. Rien n'est vendu, loué ni transmis : il n'existe aucun mécanisme
+pour le faire.
+
+## Achat facultatif « Deepstone complet »
+
+Deepstone propose un **achat unique facultatif** qui ouvre des pierres rares et
+d'autres tailles. Le paiement est entièrement traité par **Google Play** (ou
+l'**App Store** sur iPhone), selon leurs propres conditions et politiques de
+confidentialité : Deepstone ne voit jamais vos moyens de paiement ni votre
+compte. L'application reçoit seulement la confirmation que l'achat a eu lieu,
+et la garde sur votre appareil. Elle n'a toujours **aucune permission
+Internet** et n'envoie rien.
 
 ## Exporter, importer, partager
 
