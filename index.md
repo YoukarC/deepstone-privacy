@@ -66,8 +66,8 @@ pour le faire.
 
 ## Achat facultatif « Deepstone complet »
 
-Deepstone propose un **achat unique facultatif** qui ouvre des pierres rares et
-d'autres tailles. Le paiement est entièrement traité par **Google Play** (ou
+Deepstone propose un **achat unique facultatif** qui ouvre la taille, la
+sculpture et le facettage de toutes les pierres. Le paiement est entièrement traité par **Google Play** (ou
 l'**App Store** sur iPhone), selon leurs propres conditions et politiques de
 confidentialité : Deepstone ne voit jamais vos moyens de paiement ni votre
 compte. L'application reçoit seulement la confirmation que l'achat a eu lieu,
