@@ -4,8 +4,8 @@ title: Privacy policy - Deepstone
 
 # Deepstone privacy policy
 
-**Last updated: October 29, 2026**
-**Applies to the Deepstone Android app (com.youkar.deepstone, Google Play).**
+**Last updated: November 16, 2026**
+**Applies to Deepstone on Android (com.youkar.deepstone, Google Play) and on iPhone and iPad (same identifier, App Store).**
 **Publisher: Youkar.** Contact: YoukarC@hotmail.com
 
 > This text describes what the app actually does. It is not legal advice.
@@ -15,7 +15,7 @@ Other languages: [Français](./) · [Nederlands](nl)
 ## In one sentence
 
 Deepstone works without an account and without a server: your sessions and
-your stones stay on your phone. The app does not use the internet.
+your stones stay on your device. The app sends nothing over the internet.
 
 ## What stays on your device
 
@@ -30,24 +30,31 @@ app's private space:
   notifications or in the image of a stone that you share.
 
 Uninstalling Deepstone removes this data from your device (see "Erasing your
-data" for Android backup).
+data" for backups).
 
-## No internet connection
+## No data sent
 
-The app has no permission to access the internet and contains no network code:
-the app itself sends no data off your device.
+On **Android**, the app has no permission to access the internet.
+
+On **iPhone and iPad**, there is no such permission system. The app sends
+nothing to any server of ours.
+
+On both: no analytics, no ads, no tracking. Only the store's own purchase
+system (Google Play or the App Store) talks to Google or Apple.
 
 ## Permissions, and why
 
-- **Notifications** — to tell you when a session ends, and to show a silent
-  "session in progress" notification with the remaining time. Optional: the app
-  works without them, and both can be turned off in settings.
-- **Device startup** — to reschedule the end-of-session notification after the
-  phone restarts.
+- **Notifications** — to tell you when a session ends. Optional: the app works
+  without them, and you can turn them off in settings.
+- **"Session in progress" notification** (Android only) — silent, with the
+  remaining time. Also optional.
+- **Device startup** (Android only) — to reschedule the end-of-session
+  notification after the phone restarts.
 - **Vibration** — haptic feedback, which can be turned off in settings.
 
-Deepstone also uses the **accelerometer**: tilting the phone moves the light on
-the stone. The reading is used live and is never recorded.
+Deepstone also uses the **motion sensor**: tilting the device moves the light
+on the stone. The reading is used live and is never recorded. On iPhone, the
+system asks for your permission.
 
 Deepstone asks for **no access** to your location, contacts, camera,
 microphone or files.
@@ -60,12 +67,16 @@ data. Nothing is sold, rented or passed on: there is no mechanism to do so.
 
 ## Optional purchase "Deepstone Complete"
 
-Deepstone offers an **optional one-time purchase** that opens knapping,
-carving and faceting for every stone. Payment is handled entirely by **Google Play** (or the **App
-Store** on iPhone), under their own terms and privacy policies: Deepstone never
-sees your payment details or your account. The app only receives confirmation
-that the purchase took place, and keeps it on your device. It still has **no
-Internet permission** and sends nothing.
+Deepstone offers an **optional one-time purchase** that opens four more mines:
+Minas Gerais, Coober Pedy, Mogok and Kimberley. Everything you find can be
+worked fully without buying anything.
+
+Payment is handled entirely by **Google Play** or the **App Store**, under
+their own terms and privacy policies. Deepstone never sees your payment details
+or your account. The app only receives confirmation that the purchase took
+place, and keeps it on your device. No account is needed.
+
+On iPhone, "Restore purchases" asks the App Store again.
 
 ## Export, import, share
 
@@ -84,10 +95,14 @@ Nothing is sent automatically.
 In the app: **Settings → erase everything** (immediate, permanent). Uninstalling
 the app deletes its data from your device.
 
-The app keeps Android's default system backup: if you have turned on Google
-backup on your phone, Deepstone's data may be included (encrypted by Android)
-and restored onto a new device. That backup is managed by Google, outside our
-access. To delete it, use your phone's Google/Android settings.
+**Android**: the app keeps the default system backup. If you have turned on
+Google backup on your phone, Deepstone's data may be included (encrypted by
+Android) and restored onto a new device. That backup is managed by Google,
+outside our access. To delete it, use your phone's Google/Android settings.
+
+**iPhone and iPad**: the app's data may be included in your iCloud or device
+backup. Apple manages it, outside our access. To delete it, use your device's
+iCloud settings.
 
 ## Children
 
