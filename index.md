@@ -4,8 +4,8 @@ title: Politique de confidentialite - Deepstone
 
 # Politique de confidentialité de Deepstone
 
-**Dernière mise à jour : 29 octobre 2026**
-**S'applique à l'application Android Deepstone (com.youkar.deepstone, Google Play).**
+**Dernière mise à jour : 16 novembre 2026**
+**S'applique à Deepstone sur Android (com.youkar.deepstone, Google Play) et sur iPhone et iPad (même identifiant, App Store).**
 **Éditeur : Youkar.** Contact : YoukarC@hotmail.com
 
 > Ce texte décrit fidèlement ce que fait l'application. Ce n'est pas un avis
@@ -16,7 +16,7 @@ Autres langues : [English](en) · [Nederlands](nl)
 ## En une phrase
 
 Deepstone fonctionne sans compte et sans serveur : vos séances et vos pierres
-restent sur votre téléphone. L'application n'utilise pas Internet.
+restent sur votre appareil. L'application n'envoie rien sur Internet.
 
 ## Ce qui reste sur votre appareil
 
@@ -32,27 +32,32 @@ une base de données de l'espace privé de l'application :
   vous partagez.
 
 Désinstaller Deepstone supprime ces données de votre appareil (voir « Effacer
-vos données » pour la sauvegarde Android).
+vos données » pour les sauvegardes).
 
-## Aucune connexion à Internet
+## Aucune donnée envoyée
 
-L'application n'a pas l'autorisation d'accéder à Internet et ne contient aucun
-code réseau : l'application elle-même n'envoie aucune donnée hors de votre
-appareil.
+Sur **Android**, l'application n'a pas l'autorisation d'accéder à Internet.
+
+Sur **iPhone et iPad**, ce système d'autorisation n'existe pas. L'application
+n'envoie rien à un serveur de notre part.
+
+Sur les deux : aucune mesure d'audience, aucune publicité, aucun pistage. Seul
+le système d'achat de la boutique (Google Play ou App Store) communique avec
+Google ou Apple.
 
 ## Les autorisations, et pourquoi
 
-- **Notifications** — vous prévenir de la fin d'une séance, et afficher une
-  notification « séance en cours », silencieuse, avec le temps restant.
-  Facultatif : l'application fonctionne sans, et les deux se désactivent dans
-  les réglages.
-- **Démarrage de l'appareil** — reprogrammer la notification de fin de séance
-  après un redémarrage du téléphone.
+- **Notifications** — vous prévenir de la fin d'une séance. Facultatif :
+  l'application fonctionne sans, et c'est désactivable dans les réglages.
+- **Notification « séance en cours »** (Android seulement) — silencieuse, avec
+  le temps restant. Facultative aussi.
+- **Démarrage de l'appareil** (Android seulement) — reprogrammer la
+  notification de fin de séance après un redémarrage du téléphone.
 - **Vibration** — les retours tactiles, désactivables dans les réglages.
 
-Deepstone n'utilise aussi l'**accéléromètre** : l'inclinaison du téléphone
-déplace la lumière sur la pierre. La mesure est utilisée en direct et n'est
-jamais enregistrée.
+Deepstone utilise aussi le **capteur de mouvement** : l'inclinaison de
+l'appareil déplace la lumière sur la pierre. La mesure est lue en direct et
+n'est jamais enregistrée. Sur iPhone, le système vous demande l'accord.
 
 Deepstone ne demande **aucun accès** à votre position, vos contacts, votre
 appareil photo, votre micro ou vos fichiers.
@@ -66,13 +71,17 @@ pour le faire.
 
 ## Achat facultatif « Deepstone complet »
 
-Deepstone propose un **achat unique facultatif** qui ouvre la taille, la
-sculpture et le facettage de toutes les pierres. Le paiement est entièrement traité par **Google Play** (ou
-l'**App Store** sur iPhone), selon leurs propres conditions et politiques de
-confidentialité : Deepstone ne voit jamais vos moyens de paiement ni votre
-compte. L'application reçoit seulement la confirmation que l'achat a eu lieu,
-et la garde sur votre appareil. Elle n'a toujours **aucune permission
-Internet** et n'envoie rien.
+Deepstone propose un **achat unique facultatif** qui ouvre quatre mines en plus :
+Minas Gerais, Coober Pedy, Mogok et Kimberley. Tout ce que vous trouvez se
+travaille en entier, sans rien acheter.
+
+Le paiement est entièrement traité par **Google Play** ou l'**App Store**,
+selon leurs conditions et leurs politiques de confidentialité. Deepstone ne
+voit jamais vos moyens de paiement ni votre compte. L'application reçoit
+seulement la confirmation que l'achat a eu lieu, et la garde sur votre
+appareil. Aucun compte n'est nécessaire.
+
+Sur iPhone, « Restaurer les achats » interroge de nouveau l'App Store.
 
 ## Exporter, importer, partager
 
@@ -92,11 +101,16 @@ Rien n'est envoyé automatiquement.
 Dans l'application : **Réglages → tout effacer** (immédiat, définitif).
 Désinstaller l'application supprime ses données de votre appareil.
 
-L'application conserve la sauvegarde Android par défaut du système : si vous
-avez activé la sauvegarde Google de votre téléphone, les données de Deepstone
-peuvent y être incluses (chiffrées par Android) et restaurées sur un nouvel
-appareil. Cette sauvegarde est gérée par Google, hors de notre accès. Pour la
-supprimer, utilisez les réglages Google/Android de votre téléphone.
+**Android** : l'application conserve la sauvegarde par défaut du système. Si
+vous avez activé la sauvegarde Google de votre téléphone, les données de
+Deepstone peuvent y être incluses (chiffrées par Android) et restaurées sur un
+nouvel appareil. Cette sauvegarde est gérée par Google, hors de notre accès.
+Pour la supprimer, utilisez les réglages Google/Android de votre téléphone.
+
+**iPhone et iPad** : les données de l'application peuvent être incluses dans
+votre sauvegarde iCloud ou celle de votre appareil. Elle est gérée par Apple,
+hors de notre accès. Pour la supprimer, utilisez les réglages iCloud de votre
+appareil.
 
 ## Enfants
 
