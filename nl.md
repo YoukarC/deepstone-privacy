@@ -4,8 +4,8 @@ title: Privacybeleid - Deepstone
 
 # Privacybeleid van Deepstone
 
-**Laatst bijgewerkt: 29 oktober 2026**
-**Geldt voor de Android-app Deepstone (com.youkar.deepstone, Google Play).**
+**Laatst bijgewerkt: 16 november 2026**
+**Geldt voor Deepstone op Android (com.youkar.deepstone, Google Play) en op iPhone en iPad (zelfde identificatie, App Store).**
 **Uitgever: Youkar.** Contact: YoukarC@hotmail.com
 
 > Deze tekst beschrijft nauwkeurig wat de app doet. Het is geen juridisch
@@ -16,7 +16,7 @@ Andere talen: [Français](./) · [English](en)
 ## In één zin
 
 Deepstone werkt zonder account en zonder server: je sessies en je stenen
-blijven op je telefoon. De app gebruikt geen internet.
+blijven op je toestel. De app stuurt niets over internet.
 
 ## Wat op je toestel blijft
 
@@ -31,25 +31,31 @@ van de app:
   in meldingen en nooit in de afbeelding van een steen die je deelt.
 
 Deepstone verwijderen haalt deze gegevens van je toestel (zie "Je gegevens
-wissen" voor de Android-back-up).
+wissen" voor back-ups).
 
-## Geen internetverbinding
+## Geen gegevens verstuurd
 
-De app heeft geen toestemming om internet te gebruiken en bevat geen
-netwerkcode: de app zelf stuurt geen enkel gegeven van je toestel weg.
+Op **Android** heeft de app geen toestemming om internet te gebruiken.
+
+Op **iPhone en iPad** bestaat dat toestemmingssysteem niet. De app stuurt niets
+naar een server van ons.
+
+Op beide: geen analyse, geen reclame, geen tracking. Alleen het aankoopsysteem
+van de winkel (Google Play of App Store) praat met Google of Apple.
 
 ## De machtigingen, en waarom
 
-- **Meldingen** — je verwittigen wanneer een sessie afloopt, en een stille melding
-  "sessie bezig" met de resterende tijd tonen. Optioneel: de app werkt zonder, en
-  beide kun je in de instellingen uitschakelen.
-- **Opstarten van het toestel** — de melding aan het einde van de sessie opnieuw
-  inplannen na een herstart van de telefoon.
+- **Meldingen** — je verwittigen wanneer een sessie afloopt. Optioneel: de app
+  werkt zonder, en je kunt ze in de instellingen uitschakelen.
+- **Melding "sessie bezig"** (alleen Android) — stil, met de resterende tijd.
+  Ook optioneel.
+- **Opstarten van het toestel** (alleen Android) — de melding aan het einde van
+  de sessie opnieuw inplannen na een herstart van de telefoon.
 - **Trillen** — haptische feedback, uit te schakelen in de instellingen.
 
-Deepstone gebruikt ook de **versnellingsmeter**: door de telefoon te kantelen
-beweegt het licht over de steen. De meting wordt live gebruikt en nooit
-opgeslagen.
+Deepstone gebruikt ook de **bewegingssensor**: door het toestel te kantelen
+beweegt het licht over de steen. De meting wordt live gelezen en nooit
+opgeslagen. Op iPhone vraagt het systeem je toestemming.
 
 Deepstone vraagt **geen toegang** tot je locatie, contacten, camera, microfoon
 of bestanden.
@@ -63,12 +69,17 @@ mechanisme om dat te doen.
 
 ## Optionele aankoop "Deepstone Compleet"
 
-Deepstone biedt een **optionele eenmalige aankoop** die het kloppen, snijden
-en facetten slijpen van alle stenen opent. De betaling wordt volledig afgehandeld door **Google
-Play** (of de **App Store** op iPhone), volgens hun eigen voorwaarden en
-privacybeleid: Deepstone ziet nooit je betaalgegevens of je account. De app
-krijgt alleen de bevestiging dat de aankoop heeft plaatsgevonden en bewaart die
-op je toestel. Ze heeft nog steeds **geen internetrechten** en verstuurt niets.
+Deepstone biedt een **optionele eenmalige aankoop** die vier extra mijnen opent:
+Minas Gerais, Coober Pedy, Mogok en Kimberley. Alles wat je vindt, kun je
+volledig bewerken zonder iets te kopen.
+
+De betaling wordt volledig afgehandeld door **Google Play** of de **App Store**,
+volgens hun eigen voorwaarden en privacybeleid. Deepstone ziet nooit je
+betaalgegevens of je account. De app krijgt alleen de bevestiging dat de
+aankoop heeft plaatsgevonden en bewaart die op je toestel. Je hebt geen account
+nodig.
+
+Op iPhone vraagt "Aankopen herstellen" de App Store opnieuw.
 
 ## Exporteren, importeren, delen
 
@@ -88,11 +99,15 @@ Er wordt niets automatisch verstuurd.
 In de app: **Instellingen → alles wissen** (onmiddellijk en definitief). De app
 verwijderen haalt haar gegevens van je toestel.
 
-De app behoudt de standaard Android-systeemback-up: als je de Google-back-up van
-je telefoon hebt ingeschakeld, kunnen de gegevens van Deepstone daarin zitten
-(versleuteld door Android) en op een nieuw toestel worden hersteld. Die back-up
-wordt beheerd door Google, buiten onze toegang. Om ze te verwijderen, gebruik je
-de Google-/Android-instellingen van je telefoon.
+**Android**: de app behoudt de standaard systeemback-up. Als je de
+Google-back-up van je telefoon hebt ingeschakeld, kunnen de gegevens van
+Deepstone daarin zitten (versleuteld door Android) en op een nieuw toestel
+worden hersteld. Die back-up wordt beheerd door Google, buiten onze toegang. Om
+ze te verwijderen, gebruik je de Google-/Android-instellingen van je telefoon.
+
+**iPhone en iPad**: de gegevens van de app kunnen in je iCloud- of
+toestelback-up zitten. Apple beheert die, buiten onze toegang. Om ze te
+verwijderen, gebruik je de iCloud-instellingen van je toestel.
 
 ## Kinderen
 
